@@ -46,7 +46,7 @@ To preview the website locally:
 3. Run `make clean` to remove the docker images and resources generated.
 
 ## Formatting
-
+#hhaha
 Jekyll uses a variant of Markdown known as [Kramdown](https://kramdown.gettalong.org/quickref.html).
 
 Jekyll uses the [Liquid template engine](http://liquidmarkup.org/) for templating.
